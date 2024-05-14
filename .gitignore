@@ -1,0 +1,8 @@
+venv/
+data.xlsx
+DataCleaned.xlsx
+HandleData.ipynb
+Predicting_California_Housing_Prices.ipynb
+random_forest_model.pkl
+housing.csv
+Housing_Corporation.ipynb
